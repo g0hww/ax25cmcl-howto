@@ -4,7 +4,7 @@ This is an archive of the **AX.25 Connected Mode Convergence Layer Howto** for t
 reference implementation of the Delay Tolerant Networking Research Group's 
 Bundle Protocol.
 
-The wiki at [dtnrg.org](dtnrg.org) has vanished!  I've created this git repo to store a 
+The wiki at [dtnrg.org](http://dtnrg.org) has vanished!  I've created this git repo to store a 
 snapshot of the last version of the wiki howto for this convergence layer.
 It is stored in html and pdf formats.
 
