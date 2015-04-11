@@ -8,8 +8,8 @@ The wiki at [dtnrg.org](http://dtnrg.org) has vanished!  I've created this git r
 snapshot of the last version of the wiki howto for this convergence layer.
 It is stored in html and pdf formats.
 
-[The dtnrg's home page is here](https://sites.google.com/site/dtnresgroup/home)
+[The DTNRG's home page is here.](https://sites.google.com/site/dtnresgroup/home)
 
-[Further info on the DTN2 code is here](https://sites.google.com/site/dtnresgroup/home/code)
+[Further info on the DTN2 code is here.](https://sites.google.com/site/dtnresgroup/home/code)
 
-[The DTN2 and oasys code can be found here](http://sourceforge.net/projects/dtn/)
+[The DTN2 and oasys code can be found here.](http://sourceforge.net/projects/dtn/)
